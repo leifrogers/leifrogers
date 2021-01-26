@@ -22,7 +22,7 @@ title: Devlog
 email: leif@leifrogers.com
 description: >- # this means to ignore newlines until "baseurl:"
   Development log.  Something something more stuff that's important and rummaging around the brain.
-baseurl: "leifrogers" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: leifrogers
 github_username:  leifrogers
